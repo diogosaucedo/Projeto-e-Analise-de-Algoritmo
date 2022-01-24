@@ -4,3 +4,5 @@ Este repositório visa o estudo de PAA, área que possibilita explorar a capacid
  O seu estudo torna possível compreender e realizar alterações nos algoritmos utilizando técnicas especificas de diferentes projetos, com objetivo de otimização do tempo computacional.
 
 Esta disciplina foi ministrada pelo **Prof. Nielsen Cassiano Simões**, do **Instituto de computação — UFMT**.
+
+**Obs:** Os arquivos markdown deste repositório contém trechos escritos em LaTeX para representar expressões matemáticas, porém, este recurso não é suportado pelo GitHub. Para visualizar corretamente o documento você pode usar o [StackEdit](https://stackedit.io/), ou ferramenta siminar.
